@@ -1,0 +1,14 @@
+{
+  "name": "node-express-app",
+  "version": "1.0.0",
+  "description": "A simple Express server running on port 3000",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
